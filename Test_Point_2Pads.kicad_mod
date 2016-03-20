@@ -3,6 +3,7 @@
   (tedit 56C3646A)
   (descr "Connecteurs 2 pins")
   (tags "CONN DEV")
+  (attr virtual)
   (fp_text reference REF** (at 1.27 -2) (layer F.SilkS) (effects (font (size 1 1) (thickness 0.15))))
   (fp_text value Test_Point_2Pads (at 1.27 2) (layer F.Fab) (effects (font (size 1 1) (thickness 0.15))))
   (fp_line (start -0.65 1.1500000000000001) (end 3.1500000000000004 1.1500000000000001) (layer F.CrtYd) (width 0.05))

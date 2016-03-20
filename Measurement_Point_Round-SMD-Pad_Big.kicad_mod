@@ -1,7 +1,7 @@
 (module Measurement_Point_Round-SMD-Pad_Big (layer F.Cu) (tedit 56C35F3F)
   (descr "Mesurement Point, Round, SMD Pad, DM 3mm,")
   (tags "Mesurement Point Round SMD Pad 3mm")
-  (attr smd)
+  (attr virtual)
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

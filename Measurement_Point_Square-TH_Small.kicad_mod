@@ -1,6 +1,7 @@
 (module Measurement_Point_Square-TH_Small (layer F.Cu) (tedit 56C360B9)
   (descr "Mesurement Point, Square, Trough Hole,  1.5mm x 1.5mm, Drill 0.8mm,")
   (tags "Mesurement Point Square Trough Hole 1.5x1.5mm Drill 0.8mm")
+  (attr virtual)
   (fp_text reference REF** (at 0 -2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

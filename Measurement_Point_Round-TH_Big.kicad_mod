@@ -1,6 +1,7 @@
 (module Measurement_Point_Round-TH_Big (layer F.Cu) (tedit 56C35F03)
   (descr "Mesurement Point, Round, Trough Hole,  DM 3mm, Drill 1.5mm,")
   (tags "Mesurement Point Round Trough Hole 3mm 1.5mm")
+  (attr virtual)
   (fp_text reference REF** (at 0 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
