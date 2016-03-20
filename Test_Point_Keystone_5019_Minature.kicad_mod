@@ -1,7 +1,7 @@
 (module Test_Point_Keystone_5019_Minature (layer F.Cu) (tedit 56E5E83A)
   (descr "SMT Test Point- Micro Miniature 5019, http://www.keyelco.com/product-pdf.cfm?p=1357")
   (tags "Test Point")
-  (attr smd)
+  (attr virtual)
   (fp_text reference REF** (at 0 -2.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

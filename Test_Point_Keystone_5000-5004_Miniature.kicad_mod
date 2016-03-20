@@ -1,6 +1,7 @@
 (module Test_Point_Keystone_5000-5004_Miniature (layer F.Cu) (tedit 56E5DE14)
   (descr "Keystone Miniature THM Test Point 5000-5004, http://www.keyelco.com/product-pdf.cfm?p=1309")
   (tags "Through Hole Mount Test Points")
+  (attr virtual)
   (fp_text reference REF** (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

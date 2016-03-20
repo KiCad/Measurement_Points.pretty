@@ -1,6 +1,7 @@
 (module Test_Point_Keystone_5010-5014_Multipurpose (layer F.Cu) (tedit 56E5DE99)
   (descr "Keystone Miniature THM Test Point 5010-5014, http://www.keyelco.com/product-pdf.cfm?p=1319")
   (tags "Through Hole Mount Test Points")
+  (attr virtual)
   (fp_text reference REF** (at 0 -2.75) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
